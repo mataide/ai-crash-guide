@@ -7,16 +7,15 @@ I compiled a list of essential resources to understand the main core of IA and s
 **Neural Network:**  
 [Neural Network \-\> LLM Series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-**RAG: Retrieval-Augmented Generation**
-
-– [Your Documents Are Trying to Tell You What’s Relevant](https://dtsx.io/4gDsHya)  
-– Graph RAG: How to squeeze more value from AI - [https://dtsx.io/48QniQM](https://dtsx.io/48QniQM)
-– How Knowledge Graph RAG Boosts LLM Results: [https://dtsx.io/3CrcZH0](https://dtsx.io/3CrcZH0)
-– A Guide to Graph RAG - [https://dtsx.io/4hKDuY6](https://dtsx.io/4hKDuY6)
-– Scaling knowledge graphs by eliminating edges - [https://dtsx.io/3Z1WPfU](https://dtsx.io/3Z1WPfU)
-– If you’re using Astra you can use the data api: [https://dtsx.io/3ANASrC](https://dtsx.io/3ANASrC)
-– Google Colab (Wikipedia)- [https://dtsx.io/3Z4IQ9c](https://dtsx.io/3Z4IQ9c)
-- Chatbot - [https://github.com/datastax/graph-rag-example](https://github.com/datastax/graph-rag-example)
+**RAG: Retrieval-Augmented Generation**  
+[RAG: Your Documents Are Trying to Tell You What’s Relevant](https://dtsx.io/4gDsHya)  
+[Graph RAG: How to squeeze more value from AI](https://dtsx.io/48QniQM)  
+[How Knowledge Graph RAG Boosts LLM Results](https://dtsx.io/3CrcZH0)  
+[A Guide to Graph RAG](https://dtsx.io/4hKDuY6)  
+[Scaling knowledge graphs by eliminating edges](https://dtsx.io/3Z1WPfU)  
+[If you’re using Astra you can use the data api](https://dtsx.io/3ANASrC)  
+[Google Colab (Wikipedia)](https://dtsx.io/3Z4IQ9c)  
+[RAG Chatbot](https://github.com/datastax/graph-rag-example)  
 
 **Applications:**  
 [Toolformer](https://arxiv.org/pdf/2302.04761) (LLMs to use tools) \- 2023  
