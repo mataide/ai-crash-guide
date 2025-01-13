@@ -10,10 +10,10 @@ I compiled a list of essential resources to understand the main core of IA and s
 ```
 <pre>
   title   = Neural Network -&gt; LLM Series,
-  author  = Unknown,
-  journal = youtube.com,
-  year    = Unknown,
-  month   = Unknown,
+  author  = Grant Sanderson,
+  journal = youtube.com/@3blue1brown,
+  year    = 2017,
+  month   = Out,
   URL     = <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi</a>
 </pre>
 
